@@ -1,0 +1,47 @@
+html {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: lightpink;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgb(228, 147, 162);
+}
+
+h1.title {
+  color:rgb(228, 147, 162);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(228, 147, 162);
+}
+
+h3 {
+  color: rgb(228, 147, 162);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul.unordered {
+  border: 1px solid rgb(228, 147, 162);
+  margin-bottom: 5px;
+}
+ol.ordered {
+  border: 1px solid rgb(228, 147, 162);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color:white;
+  padding: 0  20px 20px 20px;
+}
